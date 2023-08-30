@@ -12,3 +12,11 @@ print("He is My Friend. His name is " + character_name +",")
 print("He is a "+ character_gender +",")
 print("His age is "+ character_age +".")
 
+
+#OutPut
+He is my Friend. his name is Vikram
+He is a Male
+He is 21 years old
+He is My Friend. His name is Vikram,
+He is a Male,
+His age is 21.23.
