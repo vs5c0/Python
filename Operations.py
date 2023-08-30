@@ -31,4 +31,20 @@ print(round(3.4))
 
 print(round(12.55))
 
+#Output
+7
+8
+182
+1.0833333333333333
+1
+1719
+1719 It is an Scientist Numbers
+2386420683693101056
+123
+12
+3
+13
+
+
+#OutPut
 
