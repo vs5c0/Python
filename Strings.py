@@ -26,3 +26,23 @@ print(pharse.index("W"))
 
 #String Replace method
 print(pharse.replace("World", "is Vedic world"))
+
+
+
+
+
+#OutPut
+
+Indian World
+Indian World is Spricutural World
+indian world
+INDIAN WORLD
+True
+True
+12
+4
+7
+Indian is Vedic world
+
+#OutPut
+
